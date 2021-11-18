@@ -1,0 +1,2 @@
+(this.webpackJsonpgaz2050=this.webpackJsonpgaz2050||[]).push([[0],{4:function(e,c,t){"use strict";t.r(c);t(1);var s=t(3),n=t.n(s),r=(t(9),t(0));n.a.render(Object(r.jsxs)("ul",{children:[Object(r.jsx)("p",{children:"calculator"}),Object(r.jsx)("p",{children:"pace converter"}),Object(r.jsx)("p",{children:"Logon Database"}),Object(r.jsx)("p",{children:"Stopwatch"}),Object(r.jsx)("p",{children:"Rock paper scissors"})]}),document.getElementById("root"))},9:function(e,c,t){}},[[4,1,2]]]);
+//# sourceMappingURL=main.17a6efd3.chunk.js.map
